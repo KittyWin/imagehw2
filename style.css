@@ -1,0 +1,212 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+.background {
+  width: 1000px;
+  height: 1500px;
+  border: 1px solid black;
+  position: relative;
+}
+.mid {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 2000px;
+}
+.el1 {
+  width: 900px;
+  height: 10px;
+  background-color: black;
+  position: absolute;
+  top: 10px;
+  left: 50px;
+}
+.el2 {
+  width: 900px;
+  height: 2px;
+  background-color: black;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}
+.el3 {
+  width: 40px;
+  height: 2px;
+  background-color: black;
+  position: absolute;
+  top: 30px;
+  left: 32px;
+  transform: rotate(90deg);
+}
+
+.el4 {
+  width: 40px;
+  height: 2px;
+  background-color: black;
+  position: absolute;
+  top: 30px;
+  left: 932px;
+  transform: rotate(90deg);
+}
+.el5 {
+  width: 1000px;
+  height: 2px;
+  background-color: black;
+  position: absolute;
+  top: 1200px;
+  left: 0px;
+}
+.el6 {
+  width: 300px;
+  height: 2px;
+  background-color: black;
+  position: absolute;
+  top: 1050px;
+  left: 150px;
+  transform: rotate(90deg);
+}
+.el7{
+  width: 300px;
+  height: 2px;
+  background-color: black;
+  position: absolute;
+  top: 1042px;
+  left: 650px;
+  transform: rotate(90deg);
+}
+.el8{
+  width: 200px;
+  height: 2px;
+  background-color: black;
+  position: absolute;
+  top: 890px;
+  left: 800px;
+  
+}
+.el9{
+  width: 350px;
+  height: 2px;
+  background-color: black;
+  position: absolute;
+  top: 850px;
+  left: 630px;
+}
+.el10{
+  width: 350px;
+  height: 2px;
+  background-color: black;
+  position: absolute;
+  top: 200px;
+  left: 630px;
+}
+.el11{
+  width: 648px;
+  height: 2px;
+  background-color: black;
+  position: absolute;
+  top: 525px;
+ transform: rotate(-90deg);
+  left: 650px;
+}
+.el12{
+  width: 648px;
+  height: 2px;
+  background-color: black;
+  position: absolute;
+  top: 525px;
+ transform: rotate(-90deg);
+  left: 308px;
+}
+.el13{
+  width: 200px;
+  height: 2px;
+  background-color: black;
+  position: absolute;
+  top: 1190px;
+  left: 800px;
+  
+}
+.el14{
+  width: 250px;
+  height: 2px;
+  background-color: black;
+  position: absolute;
+  top: 875px;
+  left: 680px;
+  
+}
+.el15{
+  width: 250px;
+  height: 2px;
+  background-color: black;
+  position: absolute;
+  top: 175px;
+  left: 680px;
+  
+}
+.el16{
+  width: 25px;
+  height: 2px;
+  background-color: black;
+  position: absolute;
+  top: 190px;
+  left: 672px;
+  transform: rotate(90deg);
+}
+.el17{
+  width: 25px;
+  height: 2px;
+  background-color: black;
+  position: absolute;
+  top: 190px;
+  left: 917px;
+  transform: rotate(90deg);
+}
+.el18{
+  width: 25px;
+  height: 2px;
+  background-color: black;
+  position: absolute;
+  top: 860px;
+  left: 918px;
+  transform: rotate(90deg);
+}
+.el19{
+  width: 25px;
+  height: 2px;
+  background-color: black;
+  position: absolute;
+  top: 860px;
+  left: 670px;
+  transform: rotate(90deg);
+}
+.el20{
+  width: 305px;
+  height: 2px;
+  background-color: black;
+  position: absolute;
+  top: 900px;
+
+  left: 0px;
+}
+.el21{
+  width: 305px;
+  height: 2px;
+  background-color: black;
+  position: absolute;
+  top: 990px;
+
+  left: 0px;
+}
+.el22{
+  width: 305px;
+  height: 2px;
+  background-color: black;
+  position: absolute;
+  top: 1090px;
+
+  left: 0px;
+}
